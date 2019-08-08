@@ -1,0 +1,1 @@
+Questo e' il file PROVA_2.txt, posizionato nella subdir DIR_1 della radice del repository
